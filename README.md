@@ -1,2 +1,2 @@
 # git-demo-website
-This is a demo website to learn git.
+This is a demo website made to learn git.
